@@ -1,0 +1,23 @@
+
+* {
+  background-image: url(./12.jpg);
+  width: 500px;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+
+}
+
+.data #paypal-button-container
+{
+  padding: 10%;
+  width: 300px;
+  margin-top: 60px ;
+  border: 2px solid brown;
+}
+
+
+#paypal-button-container data{
+text-align: center;
+}
